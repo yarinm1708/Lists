@@ -1,0 +1,15 @@
+root
+admin
+test
+guest
+kali
+info
+adm
+mysql
+user
+administrator
+oracle
+ftp
+ansible
+ec2-user
+azureuser
